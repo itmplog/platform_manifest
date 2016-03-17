@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="itmplog/android_device_motorola_victara" path="device/motorola/victara" remote="github" />
+  <project branch="cm-13.0" name="CyanogenMod/android_device_qcom_common" path="device/qcom/common" remote="cm" />
+  <project branch="cm-13.0" name="CyanogenMod/android_kernel_motorola_msm8974" path="kernel/motorola/msm8974" remote="cm" />
+</manifest>
